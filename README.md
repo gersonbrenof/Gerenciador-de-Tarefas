@@ -3,7 +3,7 @@
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/usuario/tarefas-api.git
+git clone https://github.com/gersonbrenof/Gerenciador-de-Tarefas.git)
 cd tarefas-api
 python -m venv venv
 source venv/bin/activate   # Para sistemas Linux/Mac
